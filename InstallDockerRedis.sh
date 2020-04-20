@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Install Redis in Docker. Press any key to continue [Ctrl + C to quit]"
 read
 
