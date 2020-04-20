@@ -1,3 +1,5 @@
+#!/bin/bash
+
 value=$(uname -r)
 echo "Your system version: " + $value
 echo "Please confirm your version is equal or greater then to 3.10"
