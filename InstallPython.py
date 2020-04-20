@@ -1,3 +1,5 @@
+#!/bin/bash
+
 read -p "输入Python版本号 [默认为 3.8.2]: " pyversion
 if [ -z "${pyversion}" ];then
 	pyversion="3.8.2"
